@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ketan\\Documents\\GitHub\\NoteTaker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Ketan\\Documents\\GitHub\\NoteTaker\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ketan\\Documents\\GitHub\\NoteTaker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context.xml",
+        "source": "C:\\Users\\Ketan\\Documents\\GitHub\\NoteTaker\\app\\src\\main\\res\\menu\\context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ketan\\Documents\\GitHub\\NoteTaker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit.xml",
+        "source": "C:\\Users\\Ketan\\Documents\\GitHub\\NoteTaker\\app\\src\\main\\res\\menu\\edit.xml"
+    }
+]
